@@ -1,0 +1,11 @@
+{
+    "name": "maxism/SDK-PHP",
+    "type": "library",
+    "autoload": {
+    },
+    "require": {
+        "php": ">5.6"
+    },
+    "require-dev": {
+    }
+}
